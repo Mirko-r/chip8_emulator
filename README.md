@@ -1,3 +1,6 @@
+# Chip 8 emulator
+
+![chip8](https://github.com/Mirko-r/chip8_emulator/blob/main/chip8.jpg?raw=true)
 
 ## How to use
 

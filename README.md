@@ -16,3 +16,7 @@ You canf find 32 awesome roms for chip 8 in roms directory
 ```python
 python chip8.py <ROM PATH> <LOG>
 ```
+## 💲Support my work
+
+[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stupidamentepod)
+
